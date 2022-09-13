@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backEmpresa/backEmpresa.iml" filepath="$PROJECT_DIR$/backEmpresa/backEmpresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backWeb/backWeb.iml" filepath="$PROJECT_DIR$/backWeb/backWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-bosonit-project.iml" filepath="$PROJECT_DIR$/.idea/microservices-bosonit-project.iml" />
+    </modules>
+  </component>
+</project>
