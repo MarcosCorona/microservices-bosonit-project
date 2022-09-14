@@ -19,7 +19,7 @@ public class BackEmpresaApplication {
 		SpringApplication.run(BackEmpresaApplication.class, args);
 	}
 
-	@Bean
+	/*@Bean
 	CommandLineRunner run(UserService userService) {
 		return args -> {
 			userService.saveRole(new Role(null, "ADMIN"));
@@ -37,7 +37,7 @@ public class BackEmpresaApplication {
 			userService.addRoleToUser("johnt", "CLIENT");
 			userService.addRoleToUser("arthurt", "ADMIN");
 		};
-	}
+	}*/
 	@Bean
 	public PasswordEncoder passwordEncoder()
 	{
